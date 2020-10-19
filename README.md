@@ -38,7 +38,7 @@ import prostart from './prostart.json'
 
 At the end of this iteration, your application should look like this:
 
-![Screenshot](https://i.imgur.com/fPuwZXv.png)
+![Screenshot](https://i1.faceprep.in/ProGrad/pro1.png)
 
 
 ### PROGRESSION 2 | Add New Random Prostars
@@ -49,7 +49,7 @@ First randomly select a prostars from the larger `prostars` array. Then add that
 
 At the end of this iteration, your website will probably look like this:
 
-![Screenshot](https://i.imgur.com/GuNyYiU.png)
+![Screenshot](https://i1.faceprep.in/ProGrad/pro2.png)
 
 
 ### PROGRESSION 3 | Sort By Name
@@ -60,7 +60,7 @@ Don't forget to `setState()` after you sort!
 
 This is what you may have at the end of this iteration:
 
-![Screenshot](https://i.imgur.com/vUDGZ7Y.png)
+![Screenshot](https://i1.faceprep.in/ProGrad/pro3.png)
 
 ### PROGRESSION 4 | Sort By Popularity
 
@@ -70,7 +70,7 @@ Don't forget to `setState()` after you sort!
 
 This is what you may have at the end of this iteration:
 
-![Screenshot](https://i.imgur.com/vUDGZ7Y.png)
+![Screenshot](https://i1.faceprep.in/ProGrad/pro4.png)
 
 ### Bonus | Remove Prostars
 
