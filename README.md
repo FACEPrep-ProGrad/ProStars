@@ -1,6 +1,6 @@
 ![Image description](https://i1.faceprep.in/ProGrad/prograd-logo.png)
 
-# ProGrad Lab | REACT - MASTER OF HOF
+# ProGrad Lab | REACT - PROSTARS
 
 ## Learning Goals
 
